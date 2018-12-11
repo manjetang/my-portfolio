@@ -24,7 +24,7 @@ Javascript Files:
  - Parallax.js (http://pixelcog.github.io/parallax.js/)
  - Slick Slider (http://kenwheeler.github.io/slick/)
 
--www,styleshout.com
+-www.styleshout.com
 
 -------------------------------------------------------------------------------------------------------
 
