@@ -1,4 +1,4 @@
-==================================================================================================
+
 
 SOURCES AND CREDITS:
 
@@ -11,7 +11,6 @@ Fonts:
 Icons:
  - Iconic font (https://iconmonstr.com/iconicfont/)
 
- 
 Javascript Files:
 
  - JQuery (http://jquery.com/)
@@ -25,10 +24,8 @@ Javascript Files:
  - Parallax.js (http://pixelcog.github.io/parallax.js/)
  - Slick Slider (http://kenwheeler.github.io/slick/)
 
+-www,styleshout.com
 
--www.styleshout.com
 -------------------------------------------------------------------------------------------------------
-
-
 
 
